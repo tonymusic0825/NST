@@ -1,1 +1,1 @@
-# NST
+# Neural-Style Transfer (NST)
